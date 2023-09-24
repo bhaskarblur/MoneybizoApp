@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485296185126",
+    "project_id": "moneybizo-1e509",
+    "storage_bucket": "moneybizo-1e509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485296185126:android:a6473e27c1a63ab6986be7",
+        "android_client_info": {
+          "package_name": "com.money.bizo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485296185126-9td0cqsmhvgs1gmc57hn1p5lnj8ltq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhijAsYjj5qIX3_JyJik8TMWcEvw4k6dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485296185126-9td0cqsmhvgs1gmc57hn1p5lnj8ltq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
